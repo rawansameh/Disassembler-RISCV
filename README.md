@@ -11,3 +11,5 @@ Beatrice: I have done quadrant0 compressed instructions in the riscv manual, I h
 
 Rawan: I have written quadrant1 compressed instructions and 13 rv32i true instructions. I have helped with writing the test cases, debugging and adjusting pieces of code.  I also helped with compressed instructions that needed encoding by hand to write their .bin file. I uploaded Part2.cpp and UpdatedPart2.cpp.
 
+
+Mohamed: Wrote 17 RV32I instructions, quadrant 2 of the compressed instructions & modified/adapted the code to ease the merging process. I uploaded Part 1.cpp & Part 3.cpp.
